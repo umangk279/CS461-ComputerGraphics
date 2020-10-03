@@ -1,3 +1,5 @@
+## Reading and displaying a 3D Mesh using OpenGL
+
 Commands to run:
 To compile the program: g++ main.cpp -lGL -lGLU -lglut \
 To run the program: ./a.out
