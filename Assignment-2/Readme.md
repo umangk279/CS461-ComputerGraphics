@@ -1,7 +1,7 @@
 ## Rotate and zoom 3D model using the mouse
 
 Commands to run:
-To compile the program: g++ main.cpp -lGL -lGLU -lglut
+To compile the program: g++ main.cpp -lGL -lGLU -lglut \
 To run the program: ./a.out
 
 main.cpp program loads the bunny object from lowpolybunny.obj(provided in the folder). \
